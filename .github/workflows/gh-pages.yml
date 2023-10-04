@@ -1,0 +1,25 @@
+name: github-pages
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Build
+        run: |
+          echo "<!DOCTYPE html><html lang=\"en\"><head><title>${GITHUB_REPOSITORY#*/}</title></head><body><h1>${GITHUB_REPOSITORY#*/}</h1><hr>" > index.html
+          git ls-tree -r master --name-only | grep -v "^.github" | xargs -I{} echo "<a href=\"{}\">{}</a><br/>" >> index.html
+          echo "<hr/><address>Generated on $(date) (<b>${GITHUB_WORKFLOW}</b> workflow by <a href=\"https://github.com/dacrystal/repo-files-to-gh-pages\">repo-files-to-gh-pages</a>)</address>" >> index.html
+          echo "</body></html>" >> index.html
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
