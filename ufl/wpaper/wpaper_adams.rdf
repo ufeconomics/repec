@@ -5,7 +5,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  Urbanization, Long-Run Growth, and the Demographic Transition
 Abstract:  Advanced economies undergo three transitions during their development: 1. They transition from a rural to an urban economy. 2. They transition from low income growth to high income growth. 3. Their demographics transition from initially high fertility and mortality rates to low modern levels. The timings of these transitions are correlated in the historical development of most advanced economies. I unify complementary theories of the transitions into a nonlinear model of endogenous long run economic and demographic change. The model reproduces the timing and magnitude of the transitions. Because the model captures the interactions between all three transitions, it is able to explain three additional empirical patterns: a declining urban-rural wage gap, a declining rural-urban family size ratio, and most surprisingly, that early urbanization slows development. This third prediction distinguishes the model from other theories of long-run growth, so I test and confirm it in cross-country data.
 Creation-Date:  2017-05
-File-URL: http://users.clas.ufl.edu/adamsjonathan/files/adamsjmp.pdf
+File-URL: https://www.dropbox.com/scl/fi/ybhi3aj15ncu0drc0a7to/adamsjmp.pdf?rlkey=wpswvpis5ss3cqg7v3ayq8i0v&dl=1
 File-Format: Application/pdf
 File-Function: First version, 19-05-2017
 Number: 001001
@@ -19,7 +19,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  The Rise and Fall of Armies
 Abstract:  For a thousand years, income growth was associated with a rising military employment share. But this share peaked in the early 20th century, after which military employment shares fell with income growth. I argue that rising military shares were driven by structural change out of agriculture, and the recent declines are driven by substitution from soldiers towards military goods. I document evidence for this substitution effect: as countries' incomes rise, the ratio of their military expenditure share to their military employment share rises too. I introduce a game theoretic model of growth and warfare that reproduces the time series patterns of military expenditure and employment. The model also correctly predicts the cross-sectional pattern, that military employment and expenditure shares are decreasing in income during wars. Finally, I show that faster economic growth can reduce military expenditure in the long run.
 Creation-Date:  2017-05
-File-URL: http://users.clas.ufl.edu/adamsjonathan/files/riseandfall.pdf
+File-URL: https://www.dropbox.com/scl/fi/z7f4vd94ssiluijha9qe9/riseandfall.pdf?rlkey=lvkmmkkoucc1rw2jpu1yrjorj&dl=1
 File-Format: Application/pdf
 File-Function: First version, 19-05-2017
 Number: 001002
@@ -36,7 +36,7 @@ Author-Workplace-Name: International Monetary Fund
 Title:  Resolving International Macro Puzzles with Imperfect Risk Sharing and Global Solution Methods
 Abstract:  Do gross international asset positions matter for macroeconomic outcomes? In this paper, we argue that they do. In particular, we demonstrate that asset market incompleteness which features a meaningful portfolio choice can resolve the Backus-Smith puzzle: that relative consumptions and real exchange rates are negatively correlated. Because income and nominal exchange rates are positively correlated, countries choose a portfolio that features home bias in bond holdings, which is common in the data. We compare our findings to the predictions of alternative asset market structures frequently used in the literature - such as complete markets or restricting assets to a single bond - and show that they cannot solve the Backus-Smith puzzle without further frictions. We also show that local perturbation methods that use endogenous discount factors to stabilize the model are inaccurate, even when they correctly characterize the average portfolio holdings. Instead, we use a novel global solution method to accurately solve the portfolio problem when asset markets are incomplete, using an approach that generalizes Maliar and Maliar (2015) to solve a wide class of models.
 Creation-Date:  2017-05
-File-URL: http://users.clas.ufl.edu/adamsjonathan/files/adamsbarrett.pdf
+File-URL: https://www.dropbox.com/scl/fi/k01co6v1m1v5o167mtstd/adamsbarrett.pdf?rlkey=8qug6mw62iy1z3uf0n75f6ogx&dl=1
 File-Format: Application/pdf
 File-Function: First version, 19-05-2017
 Number: 001003
@@ -51,7 +51,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  Macroeconomic Models with Incomplete Information and Endogenous Signals
 Abstract:  This paper characterizes a general class of macroeconomic models with incomplete information, when the information process includes endogenous variables.  I derive conditions for existence and uniqueness of equilibrium, which apply even when the model contains endogenous state variables, and I introduce an algorithm to solve the general model.  As an application I consider a business cycle model with capital where firms must make inferences about aggregate shocks through the movements of endogenous prices.  In this model, the central bank's policy rule determines the real effects of nominal shocks, by controlling how informative prices are about the aggregate state.  The optimal policy targets acyclical inflation, which makes money neutral.  Finally, I demonstrate an advantage of models with endogenous information: the noisy signals are driven by fundamental shocks, rather than ad hoc noise, so data can discipline the information structure.  Accordingly, I calibrate the model using US industry-level panel data.
 Creation-Date:  2019-09
-File-URL: http://users.clas.ufl.edu/adamsjonathan/files/endoginfo.pdf
+File-URL: https://www.dropbox.com/scl/fi/fgi1agxldojwb3tvthkfc/MMIIES.pdf?rlkey=qr26mzv4ssjss4ydt5101zhfe&dl=1
 File-Format: Application/pdf
 File-Function: First version, 05-09-2019
 Number: 001004
@@ -65,7 +65,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  Moderating Macroeconomic Bubbles Under Dispersed Information
 Abstract:  	Can waves of optimism and pessimism produce large macroeconomic bubbles, and if so, is there anything that policymakers can do about them?  Yes and yes.  I study a business cycle model where agents with rational expectations receive noisy signals about future productivity.  The model features dispersed information, which allows aggregate noise shocks to produce frequent large bubbles in the capital stock.  Because of the information friction, a policymaker with an informational advantage can improve outcomes.  I consider policies that affect investment incentives by distorting the intertemporal wedge.  I calculate the optimal policy rule, and find that policymakers should discourage investment booms after aggregate news shocks.
 Creation-Date:  2020-09
-File-URL: http://users.clas.ufl.edu/adamsjonathan/files/newsbubbles.pdf
+File-URL: https://www.dropbox.com/scl/fi/nz08nwc9l8z4do05afxse/moderating-noise.pdf?rlkey=t31hcrbx1mvivmga16rg0fonz&dl=1
 File-Format: Application/pdf
 File-Function: First version, 09-09-2020
 Number: 001005
@@ -79,7 +79,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  Firestorm: Multiplicity in Models with Full Information
 Abstract:  	Dynamic stochastic models with full information and rational expectations (FIRE) are not as well determined as is commonly believed.  In general, FIRE models exhibit a multiplicity that is implicitly ruled out by standard solution methods, which conjecture that equilibria are functions of past shocks alone.  The multiplicity is due to the endogenous feedback from choices to information to choices, which in equilibrium may contain self-fulfilling news about future shocks.  I demonstrate the multiplicity in several examples, including canonical asset pricing and business cycle models.  Then I study how the multiplicity arises in a dynamic programming problem with decentralized markets.  Finally, I conclude that the business cycle literature must adopt information frictions.
 Creation-Date:  2021-12
-File-URL: http://users.clas.ufl.edu/adamsjonathan/files/firestorm.pdf
+File-URL: https://www.dropbox.com/scl/fi/4v9itosr084eda7hhuul0/firestorm.pdf?rlkey=ky64y4fe3o5ctciusxeoix030&dl=1
 File-Format: Application/pdf
 File-Function: First version, 12-12-2021
 Number: 001006
@@ -96,7 +96,7 @@ Author-Workplace-Name: International Monetary Fund
 Title:  Shocks to Inflation Expectations
 Abstract:  	    The consensus among central bankers is that higher inflation expectations can drive up inflation today, requiring tighter policy. We assess this by devising a novel method for identifying shocks to inflation expectations: we run a structural VAR, where the expectation shock is the single dimension in the time series that causes forecasts to depart from those implied by rational expectations.  We measure these shocks for inflation expectations, label them ``sentiment shocks", and study their effects on the macroeconomy.  Using data on several measures of inflation expectations and other time series for the United States, we find that a positive sentiment shock causes output and interest rates to fall, but barely affects inflation.  These results are a puzzle, incompatible with the standard New Keynesian model which predicts inflation and interest rates should increase.
 Creation-Date:  2022-02
-File-URL: http://users.clas.ufl.edu/adamsjonathan/files/inflation_sentiments.pdf
+File-URL: https://www.dropbox.com/scl/fi/crjaggvk8lzipb8cb8da8/inflation_sentiments.pdf?rlkey=c07j75bxpqv1a21n8wct29r8v&dl=1
 File-Format: Application/pdf
 File-Function: First version, 02-02-2022
 Number: 001007
@@ -110,7 +110,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  Equilibrium Determinacy With Behavioral Expectations
 Abstract:  	    When do dynamic models with behavioral expectations have unique solutions?  I derive a Blanchard-Kahn-style condition that ensures a unique solution exists in a broad class of models: the number of non-predetermined variables must match the number of the model's unstable eigenvalues.  With behavioral expectations, an eigenvalue is unstable if it is larger in magnitude than the spectral radius of the  expectation operator.  The condition is always sufficient, but only necessary for some forms of expectations: many behavioral expectations do not admit sunspot equilibria in some types of models.  Next, I illustrate the determinacy conditions in several examples, including the canonical New Keynesian model, which has a unique equilibrium under an interest rate peg when expectations are given by a variety of common heuristics.  Finally, I characterize the spectral radii and other properties of a variety of popular behavioral expectations.
 Creation-Date:  2023-01
-File-URL: http://users.clas.ufl.edu/adamsjonathan/files/behavioraldeterminacy.pdf
+File-URL: https://www.dropbox.com/scl/fi/lmo6gfhtxo3u8ol57t6l9/behavioraldeterminacy.pdf?rlkey=nd0apr5aqrbj0nq81hkhqvx6r&dl=1
 File-Format: Application/pdf
 File-Function: First version, 01-01-2023
 Number: 001008
@@ -127,7 +127,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  Household Consumption and Dispersed Information
 Abstract:  	    We study the effects of aggregate income shocks in a small open economy heterogeneous agent model. By introducing a standard information friction, we are able to explain two patterns of small economies experiencing large income changes: (1) excess volatility in consumption and (2) household consumption elasticities that have low correlation with income. With a standard dispersed information structure, households cannot distinguish aggregate income shocks from idiosyncratic ones. Therefore their consumption responds excessively to aggregate income changes, which they forecast as likely to be more persistent than they would if they had full information. We demonstrate that this effect occurs at all points in the income distribution, lowering the correlation of the consumption elasticity with income. Finally, we corroborate our central mechanism using survey data on household expectations of their future income.
 Creation-Date:  2023-02
-File-URL: http://users.clas.ufl.edu/adamsjonathan/files/adams_rojas_1.pdf
+File-URL: https://www.dropbox.com/scl/fi/ecgfr0cpbbq1ilrnmx70w/adams_rojas_1.pdf?rlkey=ozs24h701r4u5ifmd3uozn8ov&dl=1
 File-Format: Application/pdf
 File-Function: First version, 02-02-2022
 Number: 001009
@@ -144,7 +144,7 @@ Author-Workplace-Name: International Monetary Fund
 Title:  Identifying News Shocks from Forecasts
 Abstract:  	    We propose a method to identify the anticipated components of macroeconomic shocks in a structural VAR: we include empirical forecasts about each time series in the VAR, which introduces enough linear restrictions to identify each structural shock and to further decompose each one into “news” and “surprise” shocks. We estimate our VAR on US time series using forecast data from the SPF, CBO, Federal Reserve, and asset prices. The fiscal stimulus and interest rate shocks that we identify have typical effects that comport with existing evidence. In our news-surprise decomposition, we find that news contributes to a third of US business cycle volatility, where the effect of fiscal shocks is mostly anticipated, while the effect of monetary policy shocks is mostly unexpected. Finally, we use the news structure of the shocks to estimate counterfactual policy rules, and compare the ability of fiscal and monetary policy to moderate output and inflation.
 Creation-Date:  2023-06
-File-URL: http://users.clas.ufl.edu/adamsjonathan/files/adamsbarrett4.pdf
+File-URL: https://www.dropbox.com/scl/fi/v07n1k44v3eva0q1r4rhd/adamsbarrett4.pdf?rlkey=92p8zfnav9bahkaiaij9fin57&dl=1
 File-Format: Application/pdf
 File-Function: First version, 06-25-2023
 Number: 001010
