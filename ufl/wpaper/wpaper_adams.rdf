@@ -164,3 +164,17 @@ File-Function: First version, 02-15-2024
 Number: 001011
 Classification-JEL: E52, E61, E70
 Handle: RePEc:ufl:wpaper:001011
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Jonathan J Adams
+Author-Email:  adamsjonathan@ufl.edu
+Author-Workplace-Name: Department of Economics, University of Florida
+Title:  Behavioral Expectations Equilibrium Toolkit
+Abstract:  	    The Behavioral Expectations Equilibrium Toolkit (BEET) is a toolkit for solving stochastic dynamic macroeconomic models with behavioral expectations in MATLAB. BEET itself is not a model-solver; for that task, it uses existing methods. Rather, BEET is a wrapper that transforms a behavioral expectations model into one that can be solved using tools designed for rational expectations.
+Creation-Date:  2024-05
+File-URL: https://github.com/jonathanjadams/BEET
+File-Format: Application/html
+File-Function: First version, 05-10-2024
+Number: 001012
+Classification-JEL: C60
+Handle: RePEc:ufl:wpaper:001012
