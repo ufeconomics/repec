@@ -178,3 +178,30 @@ File-Function: First version, 05-10-2024
 Number: 001012
 Classification-JEL: C60
 Handle: RePEc:ufl:wpaper:001012
+
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Jonathan J Adams
+Author-Email:  adamsjonathan@ufl.edu
+Author-Workplace-Name: Department of Economics, University of Florida
+Author-Name:  Cheng Chen
+Author-Email:  cchen9@clemson.edu
+Author-Workplace-Name: Clemson University
+Author-Name:  Min Fang
+Author-Email:  minfang@ufl.edu
+Author-Workplace-Name: Department of Economics, University of Florida
+Author-Name:  Takahiro Hattori
+Author-Email:  takahiro.hattori@pp.u-tokyo.ac.jp
+Author-Workplace-Name: University of Tokyo
+Author-Name:  Eugenio Rojas
+Author-Email:  erojasbarros@ufl.edu
+Author-Workplace-Name: Department of Economics, University of Florida
+Title:  Incomplete Information and Investment Inaction
+Abstract:  	   How do investment friction and information frictions interact?  We study this question in a stylized continuous time model of heterogeneous firms facing incomplete information and irreversible investment.  We analytically characterize how the information friction distorts firms' decision rules and stationary distribution.  The two frictions interact in rich and substantial ways.  At the firm level, noisier information shrinks a firm's inaction region and reduces the elasticity of investment to productivity. In the aggregate, it increases steady-state capital, increases capital misallocation, and attenuates the effect of productivity shocks on investment. Finally, we test and confirm these predictions using Japanese administrative data that match firms' forecasts to their balance sheets, incomes, and expenditures.
+Creation-Date:  2024-09
+File-URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945647
+File-Format: Application/pdf
+File-Function: First version, 09-03-2024
+Number: 001013
+Classification-JEL: D25, D84, E22, E32
+Handle: RePEc:ufl:wpaper:001013
