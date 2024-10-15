@@ -213,7 +213,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  The Dynamic Distribution in the Fixed Cost Model: An Analytical Solution
 Abstract:  	    I derive an analytical solution to the Kolmogorov forward equation for a fixed cost model. This is a challenging PDE, because the dynamic distribution depends on the flow of resetting agents, which is endogenously determined by the distribution itself. I show there is a shortcut that allows the flow function to be derived without first finding the entire distribution of agents. This shortcut is also valuable because many aggregate variables can be written in terms of the flow function alone. As an example, I solve the canonical menu cost model. In it, the analytical solution uncovers effects that are inconsistent with local approximation methods. Specifically, the effects of shocks are both size and state dependent. These nonlinearities are substantial; if a monetary shock is sufficiently large, it can even reverse the sign of the effect on output.
 Creation-Date:  2024-10
-File-URL: https://www.dropbox.com/scl/fi/aywky8iq3vktoilgw3uxl/fixed_cost_solution.pdf?rlkey=zrzlptf6lsj3jl6c801tmptc6&dl=0
+File-URL: https://www.dropbox.com/scl/fi/aywky8iq3vktoilgw3uxl/fixed_cost_solution.pdf?rlkey=zrzlptf6lsj3jl6c801tmptc6&dl=1
 File-Format: Application/pdf
 File-Function: First version, 10-10-2024
 Number: 001014
