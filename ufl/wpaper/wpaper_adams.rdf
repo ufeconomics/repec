@@ -219,3 +219,27 @@ File-Function: First version, 10-10-2024
 Number: 001014
 Classification-JEL: C60, E31, E32, E51 
 Handle: RePEc:ufl:wpaper:001014
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Jonathan J Adams
+Author-Email:  adamsjonathan@ufl.edu
+Author-Workplace-Name: Department of Economics, University of Florida
+Author-Name:  Min Fang
+Author-Email:  minfang@ufl.edu
+Author-Workplace-Name: Department of Economics, University of Florida
+Author-Name:  Zheng Liu
+Author-Email:  zheng.liu@sf.frb.org
+Author-Workplace-Name: FRB San Francisco
+Author-Name:  Yajie Wang
+Author-Email:  yajie.wang@missouri.edu
+Author-Workplace-Name: Department of Economics, University of Missouri
+Title:  The Rise of AI Pricing: Trends, Driving Forces, and Implications for Firm Performance
+Abstract:  	    We document key stylized facts about the time-series trends and cross-sectional distributions of AI pricing and study its implications for firm performance, both on average and conditional on monetary policy shocks. We use the universe of online job posting data from Lightcast to measure the adoption of AI pricing. We infer that a 
+firm is adopting AI pricing if it posts a job opening that requires AI-related skills and contains the keyword ``pricing''. At the aggregate level, the share of AI-pricing jobs in all pricing jobs has increased by more than tenfold since 2010. The increase in AI-pricing jobs has been broad-based, spreading to more industries than other types of AI jobs. At the firm level, larger and more productive firms are more likely to adopt AI pricing. Moreover, firms that adopted AI pricing experienced faster growth in sales, employment, assets, and markups, and their stock returns are also more sensitive to high-frequency monetary policy surprises than non-adopters.  We show that these empirical observations can be rationalized by a simple model where a monopolist firm with incomplete information about the demand function invests in AI pricing to acquire information.
+Creation-Date:  2024-10
+File-URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5001236
+File-Format: Application/pdf
+File-Function: First version, 10-27-2024
+Number: 001013
+Classification-JEL: D40, E31, E52, O33
+Handle: RePEc:ufl:wpaper:001015
