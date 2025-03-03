@@ -51,7 +51,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  Macroeconomic Models with Incomplete Information and Endogenous Signals
 Abstract:  This paper characterizes a general class of macroeconomic models with incomplete information, when the information process includes endogenous variables.  I derive conditions for existence and uniqueness of equilibrium, which apply even when the model contains endogenous state variables, and I introduce an algorithm to solve the general model.  As an application I consider a business cycle model with capital where firms must make inferences about aggregate shocks through the movements of endogenous prices.  In this model, the central bank's policy rule determines the real effects of nominal shocks, by controlling how informative prices are about the aggregate state.  The optimal policy targets acyclical inflation, which makes money neutral.  Finally, I demonstrate an advantage of models with endogenous information: the noisy signals are driven by fundamental shocks, rather than ad hoc noise, so data can discipline the information structure.  Accordingly, I calibrate the model using US industry-level panel data.
 Creation-Date:  2019-09
-File-URL: https://www.dropbox.com/scl/fi/fgi1agxldojwb3tvthkfc/MMIIES.pdf?rlkey=qr26mzv4ssjss4ydt5101zhfe&dl=1
+File-URL: https://jonathanjadams.com/files/MMIIES/endoginfo.pdf
 File-Format: Application/pdf
 File-Function: First version, 05-09-2019
 Number: 001004
@@ -110,7 +110,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  Equilibrium Determinacy With Behavioral Expectations
 Abstract:  	    When do dynamic models with behavioral expectations have unique solutions?  I derive a Blanchard-Kahn-style condition that ensures a unique solution exists in a broad class of models: the number of non-predetermined variables must match the number of the model's unstable eigenvalues.  With behavioral expectations, an eigenvalue is unstable if it is larger in magnitude than the spectral radius of the  expectation operator.  The condition is always sufficient, but only necessary for some forms of expectations: many behavioral expectations do not admit sunspot equilibria in some types of models.  Next, I illustrate the determinacy conditions in several examples, including the canonical New Keynesian model, which has a unique equilibrium under an interest rate peg when expectations are given by a variety of common heuristics.  Finally, I characterize the spectral radii and other properties of a variety of popular behavioral expectations.
 Creation-Date:  2023-01
-File-URL: https://www.dropbox.com/scl/fi/lmo6gfhtxo3u8ol57t6l9/behavioraldeterminacy.pdf?rlkey=nd0apr5aqrbj0nq81hkhqvx6r&dl=1
+File-URL: https://jonathanjadams.com/files/Determinacy%20with%20Behavioral%20Expectations/behavioraldeterminacy.pdf
 File-Format: Application/pdf
 File-Function: First version, 01-01-2023
 Number: 001008
@@ -144,7 +144,7 @@ Author-Workplace-Name: International Monetary Fund
 Title:  Identifying News Shocks from Forecasts
 Abstract:  	    We propose a method to identify the anticipated components of macroeconomic shocks in a structural VAR: we include empirical forecasts about each time series in the VAR, which introduces enough linear restrictions to identify each structural shock and to further decompose each one into news and surprise shocks. We estimate our VAR on US time series using forecast data from the SPF, CBO, Federal Reserve, and asset prices. The fiscal stimulus and interest rate shocks that we identify have typical effects that comport with existing evidence. In our news-surprise decomposition, we find that news contributes to a third of US business cycle volatility, where the effect of fiscal shocks is mostly anticipated, while the effect of monetary policy shocks is mostly unexpected. Finally, we use the news structure of the shocks to estimate counterfactual policy rules, and compare the ability of fiscal and monetary policy to moderate output and inflation.
 Creation-Date:  2023-06
-File-URL: https://www.dropbox.com/scl/fi/v07n1k44v3eva0q1r4rhd/adamsbarrett4.pdf?rlkey=92p8zfnav9bahkaiaij9fin57&dl=1
+File-URL: https://jonathanjadams.com/files/Adams%20Barrett%204%20-%20News%20Shocks/adamsbarrett4.pdf
 File-Format: Application/pdf
 File-Function: First version, 06-25-2023
 Number: 001010
@@ -158,7 +158,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  Optimal Policy Without Rational Expectations: A Sufficient Statistic Solution
 Abstract:  	    How should policymakers respond to mistakes made by agents without rational expectations?  I demonstrate in a general setting that the optimal policy is determined by a sufficient statistic: agents' belief distortion or "sentiment".  This result is both simple and only semi-structural: in order to calculate policy from the sentiment, the policymaker does not need to know the whole macroeconomic model.  They only need to know how sentiments and policies distort decisions.  Crucially, they do not even need to know how expectations are formed; they only need to measure them. Next, I study several examples.  In a behavioral RBC model, the optimal policy is to tax capital when agents are overly optimistic about future returns.  In a behavioral New Keynesian model, the optimal policy is raise interest rates when agents misperceive the economy to be running hot.	I conclude by arguing for policymakers to focus on estimating sentiments in the data.
 Creation-Date:  2024-02
-File-URL: https://www.dropbox.com/scl/fi/h4nvkezs66apjnexc862w/optimal_policy_without_rational_expectations.pdf?rlkey=b8qkm0oulibfkossq5gyc8yj3&dl=1
+File-URL: https://jonathanjadams.com/files/Optimal%20Policy%20Without%20Rational%20Expectations/optimal_policy_without_rational_expectations.pdf
 File-Format: Application/pdf
 File-Function: First version, 02-15-2024
 Number: 001011
@@ -213,7 +213,7 @@ Author-Workplace-Name: Department of Economics, University of Florida
 Title:  The Dynamic Distribution in the Fixed Cost Model: An Analytical Solution
 Abstract:  	    I derive an analytical solution to the Kolmogorov forward equation for a fixed cost model. This is a challenging PDE, because the dynamic distribution depends on the flow of resetting agents, which is endogenously determined by the distribution itself. I show there is a shortcut that allows the flow function to be derived without first finding the entire distribution of agents. This shortcut is also valuable because many aggregate variables can be written in terms of the flow function alone. As an example, I solve the canonical menu cost model. In it, the analytical solution uncovers effects that are inconsistent with local approximation methods. Specifically, the effects of shocks are both size and state dependent. These nonlinearities are substantial; if a monetary shock is sufficiently large, it can even reverse the sign of the effect on output.
 Creation-Date:  2024-10
-File-URL: https://www.dropbox.com/scl/fi/aywky8iq3vktoilgw3uxl/fixed_cost_solution.pdf?rlkey=zrzlptf6lsj3jl6c801tmptc6&dl=1
+File-URL: https://jonathanjadams.com/files/Fixed%20cost%20model%20solution/fixed_cost_solution.pdf
 File-Format: Application/pdf
 File-Function: First version, 10-10-2024
 Number: 001014
