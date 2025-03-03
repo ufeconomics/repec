@@ -243,3 +243,20 @@ File-Function: First version, 10-27-2024
 Number: 001015
 Classification-JEL: D40, E31, E52, O33
 Handle: RePEc:ufl:wpaper:001015
+
+Template-Type: ReDIF-Paper 1.0
+Author-Name:  Jonathan J Adams
+Author-Email:  adamsjonathan@ufl.edu
+Author-Workplace-Name: Department of Economics, University of Florida
+Author-Name:  Symeon Taipliadis
+Author-Email:  s.taipliadis@ufl.edu
+Author-Workplace-Name: Department of Economics, University of Florida
+Title:  The Optimal Monetary Policy Response to Belief Distortions: Model-Free Evidence
+Abstract:  	    Some inflation forecast errors are predictable.  Economic theory predicts that these belief distortions affect the business cycle.  How should monetary policy respond?  We investigate this question with a model-free approach using high-frequency monetary policy shocks and a structural VAR method to identify the effects of shocks to belief distortions.  Belief distortion shocks are contractionary: if households become overly pessimistic about inflation, then unemployment and deflation follow.  Intuitively, the optimal policy response is to ease.  This is most effective with short-term rates; we find that a $1$ p.p. increase in the belief distortion is optimally offset by a $0.85$ p.p. surprise interest rate decrease.  Monetary policy targeting longer-term rates is less effective but also useful. 
+Creation-Date:  2025-03
+File-URL: https://jonathanjadams.com/files/Adams%20Taipliadis/Optimal_Monetary_Policy_Response_to_Belief_Distortions.pdf
+File-Format: Application/pdf
+File-Function: First version, 03-03-2025
+Number: 001016
+Classification-JEL: E52, E30, D84, E70
+Handle: RePEc:ufl:wpaper:001016
